@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lumina Curated Draw — 博物馆级多功能抽签系统",
+  "description": "融合美术馆级视觉美学、加权概率引擎、多格式文件解析与多模态3D抽签动效的专业级抽签与分组系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
